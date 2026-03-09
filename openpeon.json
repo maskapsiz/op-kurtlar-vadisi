@@ -10,6 +10,7 @@
   },
   "license": "Personal Use Only",
   "language": "tr",
+  "soundpack_sha256": "b8c7b7e3d41365da4464e88c1db2eb9f22c1e33228df03a5425a1b9019b66e4d",
   "categories": {
     "session.start": {
       "sounds": [
@@ -718,7 +719,7 @@
           "label": "Şevkoya söyle, İstanbul'una del ederiz."
         },
         {
-          "file": "sound/30/191_orler_zannediyor_ki_deliler_her_gun_el_bayiyo.mp3",
+          "file": "sound/30/191_orler_zannediyor_ki_deliler_her_gun_el_bayiyor.mp3",
           "label": "Akıllılar zannediyor ki deliler her gün el bayıyo."
         },
         {
