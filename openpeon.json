@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "kurtlar-vadisi",
   "display_name": "Kurtlar Vadisi Sound Pack",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Kurtlar Vadisi Sound Pack (Episodes 1–97)",
   "author": {
     "name": "Ismail Sefa Nazlim",
@@ -10,6 +10,7 @@
   },
   "license": "Personal Use Only",
   "language": "tr",
+  "soundpack_sha256": "b8c7b7e3d41365da4464e88c1db2eb9f22c1e33228df03a5425a1b9019b66e4d",
   "categories": {
     "session.start": {
       "sounds": [
@@ -20,10 +21,6 @@
         {
           "file": "sounds/27/007_hos_geldin_komutanim.mp3",
           "label": "Hoş geldin komutanım."
-        },
-        {
-          "file": "sounds/01/010_iyi_gunler_efendim.mp3",
-          "label": "İyi günler efendim."
         },
         {
           "file": "sounds/24/089_hos_geldiniz.mp3",
@@ -174,10 +171,6 @@
     "session.end": {
       "sounds": [
         {
-          "file": "sounds/01/003_eyvallah.mp3",
-          "label": "Eyvallah."
-        },
-        {
           "file": "sounds/40/035_eyvallah_abi.mp3",
           "label": "Eyvallah abi."
         },
@@ -236,10 +229,6 @@
         {
           "file": "sounds/27/129_tamam_abi.mp3",
           "label": "Tamam abi."
-        },
-        {
-          "file": "sounds/01/002_tamam_sag_ol.mp3",
-          "label": "Tamam, sağ ol."
         },
         {
           "file": "sounds/05/042_anladim.mp3",
@@ -450,10 +439,6 @@
     "task.progress": {
       "sounds": [
         {
-          "file": "sounds/01/021_tesekkurler_lutfen_bekleyin.mp3",
-          "label": "Teşekkürler, lütfen bekleyin."
-        },
-        {
           "file": "sounds/27/050_birkac_gun_bekle.mp3",
           "label": "Birkaç gün bekle."
         },
@@ -480,10 +465,6 @@
         {
           "file": "sounds/03/067_merak_etme.mp3",
           "label": "Merak etme."
-        },
-        {
-          "file": "sounds/01/023_merak_etmeyin_fazla_uzun_surmez.mp3",
-          "label": "Merak etmeyin, fazla uzun sürmez."
         },
         {
           "file": "sounds/03/132_hayatta_hicbir_sey_bu_kadar_cok_beklemedim.mp3",
@@ -513,14 +494,6 @@
     },
     "input.required": {
       "sounds": [
-        {
-          "file": "sounds/01/004_ne_var.mp3",
-          "label": "Ne var?"
-        },
-        {
-          "file": "sounds/01/005_ne_oldu.mp3",
-          "label": "Ne oldu?"
-        },
         {
           "file": "sounds/01/026_niye.mp3",
           "label": "Niye?"
@@ -573,10 +546,6 @@
     },
     "resource.limit": {
       "sounds": [
-        {
-          "file": "sounds/01/008_hayir.mp3",
-          "label": "Hayır."
-        },
         {
           "file": "sounds/01/174_bu_kadar.mp3",
           "label": "Bu kadar."
@@ -716,10 +685,6 @@
         {
           "file": "sounds/11/262_sevkoya_soyle_istanbuluna_del_ederiz.mp3",
           "label": "Şevkoya söyle, İstanbul'una del ederiz."
-        },
-        {
-          "file": "sounds/30/191_orler_zannediyor_ki_deliler_her_gun_el_bayiyo.mp3",
-          "label": "Akıllılar zannediyor ki deliler her gün el bayıyo."
         },
         {
           "file": "sounds/39/408_sizin_doktugun_iskanda_emdigin_iskanda_umurumda_degil.mp3",
