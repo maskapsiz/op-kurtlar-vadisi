@@ -14,159 +14,159 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sound/27/006_hos_geldin_savci_bey.mp3",
+          "file": "sounds/27/006_hos_geldin_savci_bey.mp3",
           "label": "Hoş geldin Savcı Bey."
         },
         {
-          "file": "sound/27/007_hos_geldin_komutanim.mp3",
+          "file": "sounds/27/007_hos_geldin_komutanim.mp3",
           "label": "Hoş geldin komutanım."
         },
         {
-          "file": "sound/01/010_iyi_gunler_efendim.mp3",
+          "file": "sounds/01/010_iyi_gunler_efendim.mp3",
           "label": "İyi günler efendim."
         },
         {
-          "file": "sound/24/089_hos_geldiniz.mp3",
+          "file": "sounds/24/089_hos_geldiniz.mp3",
           "label": "Hoş geldiniz."
         },
         {
-          "file": "sound/10/123_hos_geldin_sabrana.mp3",
+          "file": "sounds/10/123_hos_geldin_sabrana.mp3",
           "label": "Hoş geldin."
         },
         {
-          "file": "sound/03/019_gunaydin.mp3",
+          "file": "sounds/03/019_gunaydin.mp3",
           "label": "Günaydın."
         },
         {
-          "file": "sound/02/015_iyi_aksamlar.mp3",
+          "file": "sounds/02/015_iyi_aksamlar.mp3",
           "label": "İyi akşamlar."
         },
         {
-          "file": "sound/03/035_iyi_gunler_arkadaslar.mp3",
+          "file": "sounds/03/035_iyi_gunler_arkadaslar.mp3",
           "label": "İyi günler arkadaşlar."
         },
         {
-          "file": "sound/03/193_hos_geldin_emmi_bu_ne_guzel_surpriz.mp3",
+          "file": "sounds/03/193_hos_geldin_emmi_bu_ne_guzel_surpriz.mp3",
           "label": "Hoş geldin emmi, bu ne güzel sürpriz."
         },
         {
-          "file": "sound/37/001_istanbul_sefiriyim.mp3",
+          "file": "sounds/37/001_istanbul_sefiriyim.mp3",
           "label": "İstanbul sefiriyim."
         },
         {
-          "file": "sound/37/004_benim_hayatimda_bu_bas_koydugum_yolda_yanimda_daima_gormek_istedigim_uc_kisi_var.mp3",
+          "file": "sounds/37/004_benim_hayatimda_bu_bas_koydugum_yolda_yanimda_daima_gormek_istedigim_uc_kisi_var.mp3",
           "label": "Benim hayatımda bu baş koyduğum yolda yanımda daima görmek istediğim üç kişi var."
         },
         {
-          "file": "sound/37/005_memati.mp3",
+          "file": "sounds/37/005_memati.mp3",
           "label": "Memati."
         },
         {
-          "file": "sound/37/006_benim_kader_kardesim.mp3",
+          "file": "sounds/37/006_benim_kader_kardesim.mp3",
           "label": "Benim kader kardeşim."
         },
         {
-          "file": "sound/37/007_can_polat.mp3",
+          "file": "sounds/37/007_can_polat.mp3",
           "label": "Can Polat."
         },
         {
-          "file": "sound/37/008_can_yoldasim.mp3",
+          "file": "sounds/37/008_can_yoldasim.mp3",
           "label": "Can yoldaşım."
         },
         {
-          "file": "sound/37/009_seyfo.mp3",
+          "file": "sounds/37/009_seyfo.mp3",
           "label": "Seyfo."
         },
         {
-          "file": "sound/37/010_dayin.mp3",
+          "file": "sounds/37/010_dayin.mp3",
           "label": "Dayın."
         },
         {
-          "file": "sound/37/034_ben_yuregim.mp3",
+          "file": "sounds/37/034_ben_yuregim.mp3",
           "label": "Ben yüreğim."
         },
         {
-          "file": "sound/37/035_sen_beyinsin.mp3",
+          "file": "sounds/37/035_sen_beyinsin.mp3",
           "label": "Sen beyinsin."
         },
         {
-          "file": "sound/37/036_dayi_bilek.mp3",
+          "file": "sounds/37/036_dayi_bilek.mp3",
           "label": "Dayı bilek."
         },
         {
-          "file": "sound/37/037_nemati_yumruk.mp3",
+          "file": "sounds/37/037_nemati_yumruk.mp3",
           "label": "Memati yumruk."
         },
         {
-          "file": "sound/37/039_biz_bir_oldukca_ne_sirtimiz_yere_gelir.mp3",
+          "file": "sounds/37/039_biz_bir_oldukca_ne_sirtimiz_yere_gelir.mp3",
           "label": "Biz bir oldukça ne sırtımız yere gelir..."
         },
         {
-          "file": "sound/37/040_ne_basimiz_one_egilir.mp3",
+          "file": "sounds/37/040_ne_basimiz_one_egilir.mp3",
           "label": "...ne başımız öne eğilir."
         },
         {
-          "file": "sound/37/377_suleyman_cakir_istanbulun_seferidir.mp3",
+          "file": "sounds/37/377_suleyman_cakir_istanbulun_seferidir.mp3",
           "label": "Süleyman Çakır İstanbul'un sefiridir."
         },
         {
-          "file": "sound/38/024_kanla_basladik_kanla_hukmedecegiz.mp3",
+          "file": "sounds/38/024_kanla_basladik_kanla_hukmedecegiz.mp3",
           "label": "Kanla başladık, kanla hükmedeceğiz."
         },
         {
-          "file": "sound/46/293_bak_aslan_bey_ben_mafya_babasiyim.mp3",
+          "file": "sounds/46/293_bak_aslan_bey_ben_mafya_babasiyim.mp3",
           "label": "Bak Aslan Bey, ben mafya babasıyım."
         },
         {
-          "file": "sound/46/295_ve_sunu_unutma_sen_beni_mafya_babasi_yaptin.mp3",
+          "file": "sounds/46/295_ve_sunu_unutma_sen_beni_mafya_babasi_yaptin.mp3",
           "label": "Ve şunu unutma, sen beni mafya babası yaptın."
         },
         {
-          "file": "sound/05/223_ne_guzel_istanbul_be.mp3",
+          "file": "sounds/05/223_ne_guzel_istanbul_be.mp3",
           "label": "Ne güzel İstanbul be."
         },
         {
-          "file": "sound/19/120_ne_guzel_istanbul_be.mp3",
+          "file": "sounds/19/120_ne_guzel_istanbul_be.mp3",
           "label": "Ne güzel İstanbul be."
         },
         {
-          "file": "sound/30/377_nerede_pislik_ben_oradayim.mp3",
+          "file": "sounds/30/377_nerede_pislik_ben_oradayim.mp3",
           "label": "Nerede pislik, ben oradayım."
         },
         {
-          "file": "sound/11/013_ben_olumden_kacmam.mp3",
+          "file": "sounds/11/013_ben_olumden_kacmam.mp3",
           "label": "Ben ölümden kaçmam."
         },
         {
-          "file": "sound/12/020_olmek_icin_de_yalvarmayiz.mp3",
+          "file": "sounds/12/020_olmek_icin_de_yalvarmayiz.mp3",
           "label": "Ölmek için de yalvarmayız."
         },
         {
-          "file": "sound/06/016_unutmayin_en_buyuk_kabadayilik.mp3",
+          "file": "sounds/06/016_unutmayin_en_buyuk_kabadayilik.mp3",
           "label": "Unutmayın, en büyük kabadayılık..."
         },
         {
-          "file": "sound/06/017_beyefendiliktir.mp3",
+          "file": "sounds/06/017_beyefendiliktir.mp3",
           "label": "...beyefendiliktir."
         },
         {
-          "file": "sound/06/047_dostun_dostumdur.mp3",
+          "file": "sounds/06/047_dostun_dostumdur.mp3",
           "label": "Dostun dostumdur."
         },
         {
-          "file": "sound/06/048_dusmanin_dusmanimdir_dedin.mp3",
+          "file": "sounds/06/048_dusmanin_dusmanimdir_dedin.mp3",
           "label": "Düşmanın düşmanımdır, dedin."
         },
         {
-          "file": "sound/47/069_ben_ismi_ocu_degilim.mp3",
+          "file": "sounds/47/069_ben_ismi_ocu_degilim.mp3",
           "label": "Ben ismi öcü değilim."
         },
         {
-          "file": "sound/45/039_polat_alemden_unlu_olmali.mp3",
+          "file": "sounds/45/039_polat_alemden_unlu_olmali.mp3",
           "label": "Polat alemden ünlü olmalı."
         },
         {
-          "file": "sound/01/554_kurtlar_vadisinde_iz_surmek_istiyorsan_kurdun_postunu_giymek_zoruttasin.mp3",
+          "file": "sounds/01/554_kurtlar_vadisinde_iz_surmek_istiyorsan_kurdun_postunu_giymek_zoruttasin.mp3",
           "label": "Kurtlar vadisinde iz sürmek istiyorsan kurdun postunu giymek zorundasın."
         }
       ]
@@ -174,47 +174,47 @@
     "session.end": {
       "sounds": [
         {
-          "file": "sound/01/003_eyvallah.mp3",
+          "file": "sounds/01/003_eyvallah.mp3",
           "label": "Eyvallah."
         },
         {
-          "file": "sound/40/035_eyvallah_abi.mp3",
+          "file": "sounds/40/035_eyvallah_abi.mp3",
           "label": "Eyvallah abi."
         },
         {
-          "file": "sound/40/578_allaha_emanet_ol.mp3",
+          "file": "sounds/40/578_allaha_emanet_ol.mp3",
           "label": "Allah'a emanet ol."
         },
         {
-          "file": "sound/24/157_hadi_gorusuruz.mp3",
+          "file": "sounds/24/157_hadi_gorusuruz.mp3",
           "label": "Hadi görüşürüz."
         },
         {
-          "file": "sound/01/036_orada_gorusuruz.mp3",
+          "file": "sounds/01/036_orada_gorusuruz.mp3",
           "label": "Orada görüşürüz."
         },
         {
-          "file": "sound/05/055_hosca_kal.mp3",
+          "file": "sounds/05/055_hosca_kal.mp3",
           "label": "Hoşça kal."
         },
         {
-          "file": "sound/05/056_gule_gule.mp3",
+          "file": "sounds/05/056_gule_gule.mp3",
           "label": "Güle güle."
         },
         {
-          "file": "sound/01/178_yolun_acik_olsun.mp3",
+          "file": "sounds/01/178_yolun_acik_olsun.mp3",
           "label": "Yolun açık olsun."
         },
         {
-          "file": "sound/04/165_gorusmek_uzere.mp3",
+          "file": "sounds/04/165_gorusmek_uzere.mp3",
           "label": "Görüşmek üzere."
         },
         {
-          "file": "sound/46/417_kurtlar_valsi_operasyonu_bitmistir.mp3",
+          "file": "sounds/46/417_kurtlar_valsi_operasyonu_bitmistir.mp3",
           "label": "Kurtlar Valsi operasyonu bitmiştir."
         },
         {
-          "file": "sound/30/365_ben_yalniz_gezerim_yalniz_yasarim_yalniz_olurum.mp3",
+          "file": "sounds/30/365_ben_yalniz_gezerim_yalniz_yasarim_yalniz_olurum.mp3",
           "label": "Ben yalnız gezerim, yalnız yaşarım, yalnız ölürüm."
         }
       ]
@@ -222,119 +222,119 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sound/01/098_anlasildi.mp3",
+          "file": "sounds/01/098_anlasildi.mp3",
           "label": "Anlaşıldı."
         },
         {
-          "file": "sound/01/482_anlasildi_arkadaslar.mp3",
+          "file": "sounds/01/482_anlasildi_arkadaslar.mp3",
           "label": "Anlaşıldı arkadaşlar."
         },
         {
-          "file": "sound/10/027_tamam.mp3",
+          "file": "sounds/10/027_tamam.mp3",
           "label": "Tamam."
         },
         {
-          "file": "sound/27/129_tamam_abi.mp3",
+          "file": "sounds/27/129_tamam_abi.mp3",
           "label": "Tamam abi."
         },
         {
-          "file": "sound/01/002_tamam_sag_ol.mp3",
+          "file": "sounds/01/002_tamam_sag_ol.mp3",
           "label": "Tamam, sağ ol."
         },
         {
-          "file": "sound/05/042_anladim.mp3",
+          "file": "sounds/05/042_anladim.mp3",
           "label": "Anladım."
         },
         {
-          "file": "sound/05/018_kesinlikle_efendim.mp3",
+          "file": "sounds/05/018_kesinlikle_efendim.mp3",
           "label": "Kesinlikle efendim."
         },
         {
-          "file": "sound/04/002_ne_desen_haklisin_patron.mp3",
+          "file": "sounds/04/002_ne_desen_haklisin_patron.mp3",
           "label": "Ne desen haklısın patron."
         },
         {
-          "file": "sound/05/054_calisirim_sef.mp3",
+          "file": "sounds/05/054_calisirim_sef.mp3",
           "label": "Çalışırım şef."
         },
         {
-          "file": "sound/01/065_adam_gibi_olmek_icin_adam_gibi_yasamak_lazim_beyic_efendi.mp3",
+          "file": "sounds/01/065_adam_gibi_olmek_icin_adam_gibi_yasamak_lazim_beyic_efendi.mp3",
           "label": "Adam gibi ölmek için adam gibi yaşamak lazım beyiç efendi."
         },
         {
-          "file": "sound/08/078_ne_olursa_olsun_ofken_ve_acin_aklini_golgelemesin.mp3",
+          "file": "sounds/08/078_ne_olursa_olsun_ofken_ve_acin_aklini_golgelemesin.mp3",
           "label": "Ne olursa olsun, öfken ve acın aklını gölgelemesin."
         },
         {
-          "file": "sound/08/079_o_zaman_daima_kazanirsin.mp3",
+          "file": "sounds/08/079_o_zaman_daima_kazanirsin.mp3",
           "label": "O zaman daima kazanırsın."
         },
         {
-          "file": "sound/43/200_sonunu_dusunen_kahraman_olamaz.mp3",
+          "file": "sounds/43/200_sonunu_dusunen_kahraman_olamaz.mp3",
           "label": "Sonunu düşünen kahraman olamaz."
         },
         {
-          "file": "sound/05/210_mesele_para_degil.mp3",
+          "file": "sounds/05/210_mesele_para_degil.mp3",
           "label": "Mesele para değil."
         },
         {
-          "file": "sound/03/387_kaybeden_kendini_magdur_hissetmemeli.mp3",
+          "file": "sounds/03/387_kaybeden_kendini_magdur_hissetmemeli.mp3",
           "label": "Kaybeden kendini mağdur hissettmemeli."
         },
         {
-          "file": "sound/03/388_kazanansa_asla_magrur_olmamali.mp3",
+          "file": "sounds/03/388_kazanansa_asla_magrur_olmamali.mp3",
           "label": "Kazanan ise asla mağrur olmamalı."
         },
         {
-          "file": "sound/04/043_bu_halimde_er_kisinin_hamunu_dusmanla_degil_dostla_kazanir.mp3",
+          "file": "sounds/04/043_bu_halimde_er_kisinin_hamunu_dusmanla_degil_dostla_kazanir.mp3",
           "label": "Er kişinin hâmunu düşmanla değil dostla kazanır."
         },
         {
-          "file": "sound/07/100_kimse_benden_calamaz.mp3",
+          "file": "sounds/07/100_kimse_benden_calamaz.mp3",
           "label": "Kimse benden çalamaz."
         },
         {
-          "file": "sound/50/330_ben_kimseye_tutamayacagim_sozu_verme.mp3",
+          "file": "sounds/50/330_ben_kimseye_tutamayacagim_sozu_verme.mp3",
           "label": "Ben kimseye tutamayacağım söz verme."
         },
         {
-          "file": "sound/03/076_ruhuna_gir_ve_zapt_et.mp3",
+          "file": "sounds/03/076_ruhuna_gir_ve_zapt_et.mp3",
           "label": "Ruhuna gir ve zapt et."
         },
         {
-          "file": "sound/43/078_biz_kanla_beslenmeyiz.mp3",
+          "file": "sounds/43/078_biz_kanla_beslenmeyiz.mp3",
           "label": "Biz kanla beslenmeyiz."
         },
         {
-          "file": "sound/43/079_zuluk_degiliz.mp3",
+          "file": "sounds/43/079_zuluk_degiliz.mp3",
           "label": "Zulük değiliz."
         },
         {
-          "file": "sound/01/539_her_insanin_hayatinda_bir_kac_omur_yasar.mp3",
+          "file": "sounds/01/539_her_insanin_hayatinda_bir_kac_omur_yasar.mp3",
           "label": "Her insanın hayatında birkaç ömür yaşar."
         },
         {
-          "file": "sound/18/244_bu_alem_kimsenin_kimseyi_konusturdugu_alem_degildir.mp3",
+          "file": "sounds/18/244_bu_alem_kimsenin_kimseyi_konusturdugu_alem_degildir.mp3",
           "label": "Bu alem kimsenin kimseyi konuşturduğu alem değildir."
         },
         {
-          "file": "sound/43/265_benim_bu_alemdeki_raconum_belimden_silahi_cektikten_sonra_mermin_bitene_kadar_yerine_koymamaktir.mp3",
+          "file": "sounds/43/265_benim_bu_alemdeki_raconum_belimden_silahi_cektikten_sonra_mermin_bitene_kadar_yerine_koymamaktir.mp3",
           "label": "Benim bu alemdeki raconum: belimden silahı çektikten sonra mermi bitene kadar yerine koymamaktır."
         },
         {
-          "file": "sound/45/044_kaderimizi_siz_yazarsiniz_siz_silersiniz_siz_bilimlersiniz.mp3",
+          "file": "sounds/45/044_kaderimizi_siz_yazarsiniz_siz_silersiniz_siz_bilimlersiniz.mp3",
           "label": "Kaderimizi siz yazarsınız, siz silersiniz, siz bilirsiniz."
         },
         {
-          "file": "sound/47/096_sen_adinin_manasini_anlamadan_sana_olum_yok_mehmeti.mp3",
+          "file": "sounds/47/096_sen_adinin_manasini_anlamadan_sana_olum_yok_mehmeti.mp3",
           "label": "Sen adının manasını anlamadan sana ölüm yok Mehmeti."
         },
         {
-          "file": "sound/50/307_beni_bu_noktaya_getiren_mehmet_karahanlidir.mp3",
+          "file": "sounds/50/307_beni_bu_noktaya_getiren_mehmet_karahanlidir.mp3",
           "label": "Beni bu noktaya getiren Mehmet Karahanli'dir."
         },
         {
-          "file": "sound/09/017_olusu_olan_bir_gun_aglar_delisi_olan_her_gun_aglar.mp3",
+          "file": "sounds/09/017_olusu_olan_bir_gun_aglar_delisi_olan_her_gun_aglar.mp3",
           "label": "Oğlusu olan bir gün ağlar, delisi olan her gün ağlar."
         }
       ]
@@ -342,43 +342,43 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sound/40/279_bitti.mp3",
+          "file": "sounds/40/279_bitti.mp3",
           "label": "Bitti."
         },
         {
-          "file": "sound/40/277_baba_artik_bitti.mp3",
+          "file": "sounds/40/277_baba_artik_bitti.mp3",
           "label": "Baba artık bitti."
         },
         {
-          "file": "sound/01/456_tamamdir_efendim.mp3",
+          "file": "sounds/01/456_tamamdir_efendim.mp3",
           "label": "Tamamdır efendim."
         },
         {
-          "file": "sound/40/092_tagiliyor_mu_halloldu.mp3",
+          "file": "sounds/40/092_tagiliyor_mu_halloldu.mp3",
           "label": "Halloldu."
         },
         {
-          "file": "sound/40/150_biz_senin_muskulunu_hallettik.mp3",
+          "file": "sounds/40/150_biz_senin_muskulunu_hallettik.mp3",
           "label": "Biz senin müşkülünü hallettik."
         },
         {
-          "file": "sound/04/192_bu_is_de_bitti.mp3",
+          "file": "sounds/04/192_bu_is_de_bitti.mp3",
           "label": "Bu iş de bitti."
         },
         {
-          "file": "sound/05/075_tamamdir_abi.mp3",
+          "file": "sounds/05/075_tamamdir_abi.mp3",
           "label": "Tamamdır abi."
         },
         {
-          "file": "sound/01/167_sarki_bitti.mp3",
+          "file": "sounds/01/167_sarki_bitti.mp3",
           "label": "Şarkı bitti."
         },
         {
-          "file": "sound/21/091_savaslari_ben_baslatirim_ben_bitiririm.mp3",
+          "file": "sounds/21/091_savaslari_ben_baslatirim_ben_bitiririm.mp3",
           "label": "Savaşları ben başlatırım, ben bitiririm."
         },
         {
-          "file": "sound/39/085_bu_sehre_raconu_da_ben_koyarim_raconu_da_ben_kaldiririm.mp3",
+          "file": "sounds/39/085_bu_sehre_raconu_da_ben_koyarim_raconu_da_ben_kaldiririm.mp3",
           "label": "Bu şehre raconu da ben koyarım, raconu da ben kaldırırım."
         }
       ]
@@ -386,63 +386,63 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sound/01/027_rus_satinizla_ilgili_bir_sorun_cikti.mp3",
+          "file": "sounds/01/027_rus_satinizla_ilgili_bir_sorun_cikti.mp3",
           "label": "Bir sorun çıktı."
         },
         {
-          "file": "sound/01/031_belki_bir_yanlislik_vardir.mp3",
+          "file": "sounds/01/031_belki_bir_yanlislik_vardir.mp3",
           "label": "Belki bir yanlışlık vardır."
         },
         {
-          "file": "sound/40/028_yanlis_adami_kestik.mp3",
+          "file": "sounds/40/028_yanlis_adami_kestik.mp3",
           "label": "Yanlış adamı kestik!"
         },
         {
-          "file": "sound/40/091_iste_orada_bir_yanlislik_yaptik.mp3",
+          "file": "sounds/40/091_iste_orada_bir_yanlislik_yaptik.mp3",
           "label": "İşte orada bir yanlışlık yaptık."
         },
         {
-          "file": "sound/10/332_beyefendi_bir_yanlis_anlasilma_var.mp3",
+          "file": "sounds/10/332_beyefendi_bir_yanlis_anlasilma_var.mp3",
           "label": "Beyefendi, bir yanlış anlaşılma var."
         },
         {
-          "file": "sound/05/081_yanlis_yapiyorsun.mp3",
+          "file": "sounds/05/081_yanlis_yapiyorsun.mp3",
           "label": "Yanlış yapıyorsun."
         },
         {
-          "file": "sound/04/003_bos_bulunduk.mp3",
+          "file": "sounds/04/003_bos_bulunduk.mp3",
           "label": "Boş bulduk."
         },
         {
-          "file": "sound/04/168_ulan_yalan_soyluyor.mp3",
+          "file": "sounds/04/168_ulan_yalan_soyluyor.mp3",
           "label": "Yalan söylüyor!"
         },
         {
-          "file": "sound/03/105_bu_ciddi_bir_problem.mp3",
+          "file": "sounds/03/105_bu_ciddi_bir_problem.mp3",
           "label": "Bu ciddi bir problem."
         },
         {
-          "file": "sound/15/079_ulan_yapilir_mi_bana_bu.mp3",
+          "file": "sounds/15/079_ulan_yapilir_mi_bana_bu.mp3",
           "label": "Ulan yapılır mı bana bu!"
         },
         {
-          "file": "sound/01/090_allah_taksilatini_affetsin.mp3",
+          "file": "sounds/01/090_allah_taksilatini_affetsin.mp3",
           "label": "Allah taksilatını affetsin."
         },
         {
-          "file": "sound/16/174_dunyanin_civisi_cikmis_cakir.mp3",
+          "file": "sounds/16/174_dunyanin_civisi_cikmis_cakir.mp3",
           "label": "Dünyanın civisi çıkmış Çakır."
         },
         {
-          "file": "sound/19/125_bizi_hem_kurdular_herkesi_birbirine_kirirdilar.mp3",
+          "file": "sounds/19/125_bizi_hem_kurdular_herkesi_birbirine_kirirdilar.mp3",
           "label": "Bizi hem kurdular, herkesi birbirine kırdırdılar."
         },
         {
-          "file": "sound/13/045_aslani_yarali_birakmayacaksin_yavuz.mp3",
+          "file": "sounds/13/045_aslani_yarali_birakmayacaksin_yavuz.mp3",
           "label": "Aslanı yaralı bırakmayacaksın Yavuz."
         },
         {
-          "file": "sound/06/069_kadin_milletin_ettigi_duadan_bile_korkacaksin.mp3",
+          "file": "sounds/06/069_kadin_milletin_ettigi_duadan_bile_korkacaksin.mp3",
           "label": "Kadın milletin ettiği duadan bile korkacaksın."
         }
       ]
@@ -450,63 +450,63 @@
     "task.progress": {
       "sounds": [
         {
-          "file": "sound/01/021_tesekkurler_lutfen_bekleyin.mp3",
+          "file": "sounds/01/021_tesekkurler_lutfen_bekleyin.mp3",
           "label": "Teşekkürler, lütfen bekleyin."
         },
         {
-          "file": "sound/27/050_birkac_gun_bekle.mp3",
+          "file": "sounds/27/050_birkac_gun_bekle.mp3",
           "label": "Birkaç gün bekle."
         },
         {
-          "file": "sound/24/277_bekle.mp3",
+          "file": "sounds/24/277_bekle.mp3",
           "label": "Bekle."
         },
         {
-          "file": "sound/10/031_her_sey_yolunda.mp3",
+          "file": "sounds/10/031_her_sey_yolunda.mp3",
           "label": "Her şey yolunda."
         },
         {
-          "file": "sound/40/444_bekle_gor_politikasi_uygulayacagiz.mp3",
+          "file": "sounds/40/444_bekle_gor_politikasi_uygulayacagiz.mp3",
           "label": "Bekle-gör politikası uygulayacağız."
         },
         {
-          "file": "sound/02/120_bekliyorum.mp3",
+          "file": "sounds/02/120_bekliyorum.mp3",
           "label": "Bekliyorum."
         },
         {
-          "file": "sound/02/190_yakinda_sana_haber_veririz.mp3",
+          "file": "sounds/02/190_yakinda_sana_haber_veririz.mp3",
           "label": "Yakında sana haber veririz."
         },
         {
-          "file": "sound/03/067_merak_etme.mp3",
+          "file": "sounds/03/067_merak_etme.mp3",
           "label": "Merak etme."
         },
         {
-          "file": "sound/01/023_merak_etmeyin_fazla_uzun_surmez.mp3",
+          "file": "sounds/01/023_merak_etmeyin_fazla_uzun_surmez.mp3",
           "label": "Merak etmeyin, fazla uzun sürmez."
         },
         {
-          "file": "sound/03/132_hayatta_hicbir_sey_bu_kadar_cok_beklemedim.mp3",
+          "file": "sounds/03/132_hayatta_hicbir_sey_bu_kadar_cok_beklemedim.mp3",
           "label": "Hayatta hiçbir şey bu kadar çok beklemedim."
         },
         {
-          "file": "sound/27/389_sayili_gun_cabuk_gecer.mp3",
+          "file": "sounds/27/389_sayili_gun_cabuk_gecer.mp3",
           "label": "Sayılı gün çabuk geçer."
         },
         {
-          "file": "sound/01/124_bu_bir_savas.mp3",
+          "file": "sounds/01/124_bu_bir_savas.mp3",
           "label": "Bu bir savaş."
         },
         {
-          "file": "sound/05/031_cunku_bu_bir_savas.mp3",
+          "file": "sounds/05/031_cunku_bu_bir_savas.mp3",
           "label": "Çünkü bu bir savaş."
         },
         {
-          "file": "sound/12/203_olum_olum_dedigin_nedir_ki_gulum.mp3",
+          "file": "sounds/12/203_olum_olum_dedigin_nedir_ki_gulum.mp3",
           "label": "Ölüm ölüm dediğin nedir ki gülüm."
         },
         {
-          "file": "sound/12/204_ben_senin_icin_yasamaya_goze_almisim.mp3",
+          "file": "sounds/12/204_ben_senin_icin_yasamaya_goze_almisim.mp3",
           "label": "Ben senin için yaşamaya göze almışım."
         }
       ]
@@ -514,59 +514,59 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sound/01/004_ne_var.mp3",
+          "file": "sounds/01/004_ne_var.mp3",
           "label": "Ne var?"
         },
         {
-          "file": "sound/01/005_ne_oldu.mp3",
+          "file": "sounds/01/005_ne_oldu.mp3",
           "label": "Ne oldu?"
         },
         {
-          "file": "sound/01/026_niye.mp3",
+          "file": "sounds/01/026_niye.mp3",
           "label": "Niye?"
         },
         {
-          "file": "sound/01/144_adini_soyle.mp3",
+          "file": "sounds/01/144_adini_soyle.mp3",
           "label": "Adını söyle."
         },
         {
-          "file": "sound/27/002_size_soruyorum.mp3",
+          "file": "sounds/27/002_size_soruyorum.mp3",
           "label": "Size soruyorum."
         },
         {
-          "file": "sound/02/019_kimsiniz.mp3",
+          "file": "sounds/02/019_kimsiniz.mp3",
           "label": "Kimsiniz?"
         },
         {
-          "file": "sound/02/085_ee_konus.mp3",
+          "file": "sounds/02/085_ee_konus.mp3",
           "label": "Ee, konuş."
         },
         {
-          "file": "sound/01/117_ne_dersiniz_beyler.mp3",
+          "file": "sounds/01/117_ne_dersiniz_beyler.mp3",
           "label": "Ne dersiniz beyler?"
         },
         {
-          "file": "sound/03/062_ozelligi_ne.mp3",
+          "file": "sounds/03/062_ozelligi_ne.mp3",
           "label": "Özelliği ne?"
         },
         {
-          "file": "sound/10/088_cakir_boyle_bir_sey_yapar_mi_abi.mp3",
+          "file": "sounds/10/088_cakir_boyle_bir_sey_yapar_mi_abi.mp3",
           "label": "Çakır böyle bir şey yapar mı abi?"
         },
         {
-          "file": "sound/43/251_ya_onlardan_ya_bizden.mp3",
+          "file": "sounds/43/251_ya_onlardan_ya_bizden.mp3",
           "label": "Ya onlardan ya bizden."
         },
         {
-          "file": "sound/43/252_bu_istanbul_ya_onlarindir_ya_da_bizim.mp3",
+          "file": "sounds/43/252_bu_istanbul_ya_onlarindir_ya_da_bizim.mp3",
           "label": "Bu İstanbul ya onlarındır ya da bizim."
         },
         {
-          "file": "sound/01/054_bu_sehir_cok_manyaklar_yuttu_cakir.mp3",
+          "file": "sounds/01/054_bu_sehir_cok_manyaklar_yuttu_cakir.mp3",
           "label": "Bu şehir çok manyaklar yuttu Çakır."
         },
         {
-          "file": "sound/01/055_bir_gun_seni_de_yutar.mp3",
+          "file": "sounds/01/055_bir_gun_seni_de_yutar.mp3",
           "label": "Bir gün seni de yutar."
         }
       ]
@@ -574,71 +574,71 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sound/01/008_hayir.mp3",
+          "file": "sounds/01/008_hayir.mp3",
           "label": "Hayır."
         },
         {
-          "file": "sound/01/174_bu_kadar.mp3",
+          "file": "sounds/01/174_bu_kadar.mp3",
           "label": "Bu kadar."
         },
         {
-          "file": "sound/27/317_sinirlendirme_beni.mp3",
+          "file": "sounds/27/317_sinirlendirme_beni.mp3",
           "label": "Sinirlendirme beni."
         },
         {
-          "file": "sound/24/332_sakiz_cigneyen_mafya_babasi_olmaz.mp3",
+          "file": "sounds/24/332_sakiz_cigneyen_mafya_babasi_olmaz.mp3",
           "label": "Sakız çiğneyen mafya babası olmaz."
         },
         {
-          "file": "sound/40/038_yalniz_sizin_isinizle_sinirli_olmak_uzere.mp3",
+          "file": "sounds/40/038_yalniz_sizin_isinizle_sinirli_olmak_uzere.mp3",
           "label": "Yalnız sizin işinizle sınırlı olmak üzere."
         },
         {
-          "file": "sound/05/100_ayagina_denk.mp3",
+          "file": "sounds/05/100_ayagina_denk.mp3",
           "label": "Ayağına denk."
         },
         {
-          "file": "sound/04/200_bunu_bir_daha_duymayayim_cakir_yegeni.mp3",
+          "file": "sounds/04/200_bunu_bir_daha_duymayayim_cakir_yegeni.mp3",
           "label": "Bunu bir daha duymayayım."
         },
         {
-          "file": "sound/04/016_yatacak_yerin_yok_senin.mp3",
+          "file": "sounds/04/016_yatacak_yerin_yok_senin.mp3",
           "label": "Yatacak yerin yok senin."
         },
         {
-          "file": "sound/05/096_cunku_sokak_serseleri_gibi_hadise_cikartmazsin.mp3",
+          "file": "sounds/05/096_cunku_sokak_serseleri_gibi_hadise_cikartmazsin.mp3",
           "label": "Sokak serserleri gibi hadise çıkartmazsın."
         },
         {
-          "file": "sound/46/438_istanbulda_yasamanin_sartlari_agir.mp3",
+          "file": "sounds/46/438_istanbulda_yasamanin_sartlari_agir.mp3",
           "label": "İstanbul'da yaşamanın şartları ağır."
         },
         {
-          "file": "sound/10/243_tabii_alemin_parasini_islettigi_icin_kimsede_parasi_da_kalmaz.mp3",
+          "file": "sounds/10/243_tabii_alemin_parasini_islettigi_icin_kimsede_parasi_da_kalmaz.mp3",
           "label": "Tabii alemin parasını işlettiği için kimsede parası da kalmaz."
         },
         {
-          "file": "sound/20/442_azdan_az_coktan_cok_gider.mp3",
+          "file": "sounds/20/442_azdan_az_coktan_cok_gider.mp3",
           "label": "Azdan az, çoktan çok gider."
         },
         {
-          "file": "sound/36/031_azdan_az_coktan_cok_gider.mp3",
+          "file": "sounds/36/031_azdan_az_coktan_cok_gider.mp3",
           "label": "Azdan az, çoktan çok gider."
         },
         {
-          "file": "sound/32/244_ruzgar_ne_kadar_sert_etse_de_kayadan_alip_goturecegi_tostur.mp3",
+          "file": "sounds/32/244_ruzgar_ne_kadar_sert_etse_de_kayadan_alip_goturecegi_tostur.mp3",
           "label": "Rüzgar ne kadar sert ese de kayadan alıp götüreceği toz dur."
         },
         {
-          "file": "sound/01/239_iki_kisinin_bildigi_sir_degildir.mp3",
+          "file": "sounds/01/239_iki_kisinin_bildigi_sir_degildir.mp3",
           "label": "İki kişinin bildiği sır değildir."
         },
         {
-          "file": "sound/06/169_iste_bu_yuzden_emmi_sen_bile_olsan_iki_kisinin_bildigi_isir_degildir.mp3",
+          "file": "sounds/06/169_iste_bu_yuzden_emmi_sen_bile_olsan_iki_kisinin_bildigi_isir_degildir.mp3",
           "label": "İşte bu yüzden emmi, sen bile olsan, iki kişinin bildiği sır değildir."
         },
         {
-          "file": "sound/24/507_sen_bile_olsan_iki_kisinin_bildigi_isir_degildir.mp3",
+          "file": "sounds/24/507_sen_bile_olsan_iki_kisinin_bildigi_isir_degildir.mp3",
           "label": "Sen bile olsan, iki kişinin bildiği sır değildir."
         }
       ]
@@ -646,95 +646,95 @@
     "user.spam": {
       "sounds": [
         {
-          "file": "sound/24/148_yeter_alit.mp3",
+          "file": "sounds/24/148_yeter_alit.mp3",
           "label": "Yeter!"
         },
         {
-          "file": "sound/27/298_sadece_kafami_dagitma_yeter.mp3",
+          "file": "sounds/27/298_sadece_kafami_dagitma_yeter.mp3",
           "label": "Sadece kafamı dağıtma yeter."
         },
         {
-          "file": "sound/27/299_tamam_mi_sus.mp3",
+          "file": "sounds/27/299_tamam_mi_sus.mp3",
           "label": "Tamam mı, sus."
         },
         {
-          "file": "sound/27/209_senin_kafani_koparirim_karismaz.mp3",
+          "file": "sounds/27/209_senin_kafani_koparirim_karismaz.mp3",
           "label": "Senin kafanı koparırım, karışmaz."
         },
         {
-          "file": "sound/40/456_susayim_bari.mp3",
+          "file": "sounds/40/456_susayim_bari.mp3",
           "label": "Susayım bari."
         },
         {
-          "file": "sound/02/062_defolun_buradan_defolun.mp3",
+          "file": "sounds/02/062_defolun_buradan_defolun.mp3",
           "label": "Defolun buradan!"
         },
         {
-          "file": "sound/02/137_bana_bakin_lan_asagilik_mahlukat.mp3",
+          "file": "sounds/02/137_bana_bakin_lan_asagilik_mahlukat.mp3",
           "label": "Bana bakın lan aşağılık mahlukat!"
         },
         {
-          "file": "sound/04/036_hadi_oradan_sende.mp3",
+          "file": "sounds/04/036_hadi_oradan_sende.mp3",
           "label": "Hadi oradan sen de."
         },
         {
-          "file": "sound/03/130_persefe_yapma_lan.mp3",
+          "file": "sounds/03/130_persefe_yapma_lan.mp3",
           "label": "Perse yapma lan."
         },
         {
-          "file": "sound/06/306_seni_oldurmedigim_her_gune_lanet_edeceksin.mp3",
+          "file": "sounds/06/306_seni_oldurmedigim_her_gune_lanet_edeceksin.mp3",
           "label": "Seni öldürmediğim her güne lanet edeceksin."
         },
         {
-          "file": "sound/40/055_ablanin_kellesini_keser_koynuna_veririm.mp3",
+          "file": "sounds/40/055_ablanin_kellesini_keser_koynuna_veririm.mp3",
           "label": "Ablanın kellesini keser koynuna veririm."
         },
         {
-          "file": "sound/14/234_ya_vuracaksin_ya_vurulacaksin.mp3",
+          "file": "sounds/14/234_ya_vuracaksin_ya_vurulacaksin.mp3",
           "label": "Ya vuracaksın ya vurulacaksın."
         },
         {
-          "file": "sound/19/308_dostum_olmaz.mp3",
+          "file": "sounds/19/308_dostum_olmaz.mp3",
           "label": "Dostum olmaz."
         },
         {
-          "file": "sound/19/309_hasim_yasamaz.mp3",
+          "file": "sounds/19/309_hasim_yasamaz.mp3",
           "label": "Haşim yaşamaz."
         },
         {
-          "file": "sound/02/307_bir_insan_arkadan_vurmanin_en_saglam_yolu_onun_arkasinda_olmaktir.mp3",
+          "file": "sounds/02/307_bir_insan_arkadan_vurmanin_en_saglam_yolu_onun_arkasinda_olmaktir.mp3",
           "label": "Bir insanı arkadan vurmanın en sağlam yolu onun arkasında olmaktır."
         },
         {
-          "file": "sound/05/367_intikam_soguk_yenildiginde_lezzetli_astir.mp3",
+          "file": "sounds/05/367_intikam_soguk_yenildiginde_lezzetli_astir.mp3",
           "label": "İntikam soğuk yenildiğinde lezzetlidir."
         },
         {
-          "file": "sound/16/079_keser_doner_sap_doner_gun_doner_hesap_doner.mp3",
+          "file": "sounds/16/079_keser_doner_sap_doner_gun_doner_hesap_doner.mp3",
           "label": "Keser döner, sap döner, gün döner, hesap döner."
         },
         {
-          "file": "sound/11/262_sevkoya_soyle_istanbuluna_del_ederiz.mp3",
+          "file": "sounds/11/262_sevkoya_soyle_istanbuluna_del_ederiz.mp3",
           "label": "Şevkoya söyle, İstanbul'una del ederiz."
         },
         {
-          "file": "sound/30/191_orler_zannediyor_ki_deliler_her_gun_el_bayiyo.mp3",
+          "file": "sounds/30/191_orler_zannediyor_ki_deliler_her_gun_el_bayiyo.mp3",
           "label": "Akıllılar zannediyor ki deliler her gün el bayıyo."
         },
         {
-          "file": "sound/39/408_sizin_doktugun_iskanda_emdigin_iskanda_umurumda_degil.mp3",
+          "file": "sounds/39/408_sizin_doktugun_iskanda_emdigin_iskanda_umurumda_degil.mp3",
           "label": "Sizin döktüğünüz iskanda, emdiğiniz iskanda umurumda değil."
         },
         {
-          "file": "sound/46/359_sizofreninden_kurtuldum_sen_de_kurtul.mp3",
+          "file": "sounds/46/359_sizofreninden_kurtuldum_sen_de_kurtul.mp3",
           "label": "Şizofreninden kurtuldum, sen de kurtul."
         },
         {
-          "file": "sound/33/157_kurt_yataginda_yatan_kurt_aslanin_de_yatan_aslan.mp3",
+          "file": "sounds/33/157_kurt_yataginda_yatan_kurt_aslanin_de_yatan_aslan.mp3",
           "label": "Kurt yatağında yatan kurt, aslanın yatağında yatan aslan."
         },
         {
-          "file": "sound/33/158_cakal_otaginda_gezen_cakal_olur.mp3",
+          "file": "sounds/33/158_cakal_otaginda_gezen_cakal_olur.mp3",
           "label": "Çakal otağında gezen çakal olur."
         }
       ]
