@@ -16,8 +16,13 @@
         { "file": "sounds/start1_istanbulun_sefiri.mp3", "label": "İstanbul’un sefiri biziz! (Süleyman Çakır)" },
         { "file": "sounds/start2_racon_kesmeye.mp3", "label": "Biz buraya takılmaya gelmedik, racon kesmeye geldik. (Pala)" },
         { "file": "sounds/start3_hos_geldin.mp3", "label": "Hoş geldin canım kardeşim. (Süleyman Çakır)" },
-        { "file": "sounds/start4_vadi_zaman.mp3", "label": "Kurtlar Vadisi'nde zaman, ölümden önce başlar. (Aslan Akbey)" },
-        { "file": "sounds/start5_polat_alemdar.mp3", "label": "Polat Alemdar! (Polat)" }
+        { "file": "sounds/start4_vadi_zaman.mp3", "label": "Kurtlar Vadisi’nde zaman, ölümden önce başlar. (Aslan Akbey)" },
+        { "file": "sounds/start5_polat_alemdar.mp3", "label": "Polat Alemdar! (Polat)" },
+        { "file": "27/006_hos_geldin_savci_bey.mp3", "label": "Hoş geldin Savcı Bey." },
+        { "file": "27/007_hos_geldin_komutanim.mp3", "label": "Hoş geldin komutanım." },
+        { "file": "01/010_iyi_gunler_efendim.mp3", "label": "İyi günler efendim." },
+        { "file": "24/089_hos_geldiniz.mp3", "label": "Hoş geldiniz." },
+        { "file": "10/123_hos_geldin_sabrana.mp3", "label": "Hoş geldin." }
       ]
     },
     "session.end": {
@@ -26,7 +31,12 @@
         { "file": "sounds/end2_hayat_olumle_biter.mp3", "label": "Hayat, ölümle biter; ama önemli olan nasıl bittiğidir. (Duran Emmi)" },
         { "file": "sounds/end3_hadi_eyvallah.mp3", "label": "Hadi eyvallah. (Polat Alemdar)" },
         { "file": "sounds/end4_allaha_emanet.mp3", "label": "Allah'a emanet ol yeğenim. (Seyfo Dayı)" },
-        { "file": "sounds/end5_kaldi_mi_hesabi.mp3", "label": "Kaldı mı hesabı olan? (Süleyman Çakır)" }
+        { "file": "sounds/end5_kaldi_mi_hesabi.mp3", "label": "Kaldı mı hesabı olan? (Süleyman Çakır)" },
+        { "file": "01/003_eyvallah.mp3", "label": "Eyvallah." },
+        { "file": "40/035_eyvallah_abi.mp3", "label": "Eyvallah abi." },
+        { "file": "40/578_allaha_emanet_ol.mp3", "label": "Allah'a emanet ol." },
+        { "file": "24/157_hadi_gorusuruz.mp3", "label": "Hadi görüşürüz." },
+        { "file": "01/036_orada_gorusuruz.mp3", "label": "Orada görüşürüz." }
       ]
     },
     "task.acknowledge": {
@@ -36,7 +46,12 @@
         { "file": "sounds/ack3_olumune_gideriz.mp3", "label": "Seninle ölümüne gideriz usta. (Memati Baş)" },
         { "file": "sounds/ack4_emrin_olur.mp3", "label": "Emrin olur usta. (Erhan / Memati)" },
         { "file": "sounds/ack5_iki_kisinin_bildigi.mp3", "label": "İki kişinin bildiği sır, sır değildir. (Polat Alemdar)" },
-        { "file": "sounds/ack6_eyvallah.mp3", "label": "Eyvallah. (Seyfo Dayı)" }
+        { "file": "sounds/ack6_eyvallah.mp3", "label": "Eyvallah. (Seyfo Dayı)" },
+        { "file": "01/098_anlasildi.mp3", "label": "Anlaşıldı." },
+        { "file": "01/482_anlasildi_arkadaslar.mp3", "label": "Anlaşıldı arkadaşlar." },
+        { "file": "10/027_tamam.mp3", "label": "Tamam." },
+        { "file": "27/129_tamam_abi.mp3", "label": "Tamam abi." },
+        { "file": "01/002_tamam_sag_ol.mp3", "label": "Tamam, sağ ol." }
       ]
     },
     "task.complete": {
@@ -45,7 +60,12 @@
         { "file": "sounds/complete2_dostum_olmaz.mp3", "label": "Dostum olmaz, hasmım yaşamaz. (Laz Ziya)" },
         { "file": "sounds/complete3_boyun_kesmek.mp3", "label": "Töremizde boyun eğmek yoktur, boyun kesmek vardır. (Hüsrev Ağa)" },
         { "file": "sounds/complete4_gordum_yasadim.mp3", "label": "Gördüm, yaşadım, öldüm. (Aslan Akbey)" },
-        { "file": "sounds/complete5_operasyon_tamamdir.mp3", "label": "Operasyon tamamdır usta. (Memati Baş)" }
+        { "file": "sounds/complete5_operasyon_tamamdir.mp3", "label": "Operasyon tamamdır usta. (Memati Baş)" },
+        { "file": "40/279_bitti.mp3", "label": "Bitti." },
+        { "file": "40/277_baba_artik_bitti.mp3", "label": "Baba artık bitti." },
+        { "file": "01/456_tamamdir_efendim.mp3", "label": "Tamamdır efendim." },
+        { "file": "40/092_tagiliyor_mu_halloldu.mp3", "label": "Halloldu." },
+        { "file": "40/150_biz_senin_muskulunu_hallettik.mp3", "label": "Biz senin müşkülünü hallettik." }
       ]
     },
     "task.error": {
@@ -54,7 +74,12 @@
         { "file": "sounds/error2_boyle_racon_mu.mp3", "label": "Böyle racon mu olur lan! (Memati Baş)" },
         { "file": "sounds/error3_diriler_helva.mp3", "label": "Ölüler de sanıyor ki diriler her gün helva yiyor. (Süleyman Çakır)" },
         { "file": "sounds/error4_biz_olmeyi.mp3", "label": "Biz ölmeyi çoktan göze aldık da, yanımızda kimleri götüreceğiz... (Polat)" },
-        { "file": "sounds/error5_cocuk_mu_kandiriyorsunuz.mp3", "label": "Ne lan bu, çocuk mu kandırıyorsunuz! (Süleyman Çakır)" }
+        { "file": "sounds/error5_cocuk_mu_kandiriyorsunuz.mp3", "label": "Ne lan bu, çocuk mu kandırıyorsunuz! (Süleyman Çakır)" },
+        { "file": "01/027_rus_satinizla_ilgili_bir_sorun_cikti.mp3", "label": "Bir sorun çıktı." },
+        { "file": "01/031_belki_bir_yanlislik_vardir.mp3", "label": "Belki bir yanlışlık vardır." },
+        { "file": "40/028_yanlis_adami_kestik.mp3", "label": "Yanlış adamı kestik!" },
+        { "file": "40/091_iste_orada_bir_yanlislik_yaptik.mp3", "label": "İşte orada bir yanlışlık yaptık." },
+        { "file": "10/332_beyefendi_bir_yanlis_anlasilma_var.mp3", "label": "Beyefendi, bir yanlış anlaşılma var." }
       ]
     },
     "task.progress": {
@@ -62,7 +87,12 @@
         { "file": "sounds/prog1_adabimiz_vardir.mp3", "label": "Adabımız vardır; büyüğümüzü bilir, küçüğümüzü severiz. (Süleyman Çakır)" },
         { "file": "sounds/prog2_ruzgar_ne_kadar.mp3", "label": "Rüzgar ne kadar sert eserse essin, kayadan alıp götüreceği sadece tozdur. (Polat)" },
         { "file": "sounds/prog3_sabir_boyun.mp3", "label": "Sabır, boyun eğmek değil, mücadele etmektir. (Ömer Baba)" },
-        { "file": "sounds/prog4_beklemesini_bileceksin.mp3", "label": "Beklemesini bileceksin yeğen. (Seyfo Dayı)" }
+        { "file": "sounds/prog4_beklemesini_bileceksin.mp3", "label": "Beklemesini bileceksin yeğen. (Seyfo Dayı)" },
+        { "file": "01/021_tesekkurler_lutfen_bekleyin.mp3", "label": "Teşekkürler, lütfen bekleyin." },
+        { "file": "27/050_birkac_gun_bekle.mp3", "label": "Birkaç gün bekle." },
+        { "file": "24/277_bekle.mp3", "label": "Bekle." },
+        { "file": "10/031_her_sey_yolunda.mp3", "label": "Her şey yolunda." },
+        { "file": "40/444_bekle_gor_politikasi_uygulayacagiz.mp3", "label": "Bekle-gör politikası uygulayacağız." }
       ]
     },
     "input.required": {
@@ -71,7 +101,12 @@
         { "file": "sounds/req2_sadakat_mi.mp3", "label": "Sadakat mi, yetenek mi? (Mehmet Karahanlı)" },
         { "file": "sounds/req3_konsey_toplansin.mp3", "label": "Konsey toplansın. (Mehmet Karahanlı)" },
         { "file": "sounds/req4_kim_bu_polat.mp3", "label": "Kim bu Polat Alemdar?! (Laz Ziya)" },
-        { "file": "sounds/req5_sen_ne_diyorsun.mp3", "label": "Sen ne diyorsun lan değişik? (Memati Baş)" }
+        { "file": "sounds/req5_sen_ne_diyorsun.mp3", "label": "Sen ne diyorsun lan değişik? (Memati Baş)" },
+        { "file": "01/004_ne_var.mp3", "label": "Ne var?" },
+        { "file": "01/005_ne_oldu.mp3", "label": "Ne oldu?" },
+        { "file": "01/026_niye.mp3", "label": "Niye?" },
+        { "file": "01/144_adini_soyle.mp3", "label": "Adını söyle." },
+        { "file": "27/002_size_soruyorum.mp3", "label": "Size soruyorum." }
       ]
     },
     "resource.limit": {
@@ -80,7 +115,12 @@
         { "file": "sounds/limit2_kurt_yataginda.mp3", "label": "Kurt yatağında yatan kurt, aslan ininde yatan aslan olur. (Laz Ziya)" },
         { "file": "sounds/limit3_ben_devletim.mp3", "label": "Ben devletim! (İskender Büyük)" },
         { "file": "sounds/limit4_senin_capin.mp3", "label": "Senin çapın ne ki, bana kafa tutuyorsun? (Süleyman Çakır)" },
-        { "file": "sounds/limit5_boyun_egmeyeceksin.mp3", "label": "Boyun eğmeyeceksin! (Hüsrev Ağa)" }
+        { "file": "sounds/limit5_boyun_egmeyeceksin.mp3", "label": "Boyun eğmeyeceksin! (Hüsrev Ağa)" },
+        { "file": "01/008_hayir.mp3", "label": "Hayır." },
+        { "file": "01/174_bu_kadar.mp3", "label": "Bu kadar." },
+        { "file": "27/317_sinirlendirme_beni.mp3", "label": "Sinirlendirme beni." },
+        { "file": "24/332_sakiz_cigneyen_mafya_babasi_olmaz.mp3", "label": "Sakız çiğneyen mafya babası olmaz." },
+        { "file": "40/038_yalniz_sizin_isinizle_sinirli_olmak_uzere.mp3", "label": "Yalnız sizin işinizle sınırlı olmak üzere." }
       ]
     },
     "user.spam": {
@@ -90,7 +130,12 @@
         { "file": "sounds/spam3_beni_yorma.mp3", "label": "Beni yorma yeğen. (Seyfo Dayı)" },
         { "file": "sounds/spam4_otur_ulan.mp3", "label": "Otur ulan yerine! (Süleyman Çakır)" },
         { "file": "sounds/spam5_kafani_kopartirim.mp3", "label": "Senin kafanı kopartırım! (Memati Baş)" },
-        { "file": "sounds/spam6_yeter_ulan.mp3", "label": "Yeter ulan! (Memati Baş)" }
+        { "file": "sounds/spam6_yeter_ulan.mp3", "label": "Yeter ulan! (Memati Baş)" },
+        { "file": "24/148_yeter_alit.mp3", "label": "Yeter!" },
+        { "file": "27/298_sadece_kafami_dagitma_yeter.mp3", "label": "Sadece kafamı dağıtma yeter." },
+        { "file": "27/299_tamam_mi_sus.mp3", "label": "Tamam mı, sus." },
+        { "file": "27/209_senin_kafani_koparirim_karismaz.mp3", "label": "Senin kafanı koparırım, karışmaz." },
+        { "file": "40/456_susayim_bari.mp3", "label": "Susayım bari." }
       ]
     }
   }
