@@ -32,6 +32,22 @@
         {
           "file": "sound/10/123_hos_geldin_sabrana.mp3",
           "label": "Hoş geldin."
+        },
+        {
+          "file": "sound/03/019_gunaydin.mp3",
+          "label": "Günaydın."
+        },
+        {
+          "file": "sound/02/015_iyi_aksamlar.mp3",
+          "label": "İyi akşamlar."
+        },
+        {
+          "file": "sound/03/035_iyi_gunler_arkadaslar.mp3",
+          "label": "İyi günler arkadaşlar."
+        },
+        {
+          "file": "sound/03/193_hos_geldin_emmi_bu_ne_guzel_surpriz.mp3",
+          "label": "Hoş geldin emmi, bu ne güzel sürpriz."
         }
       ]
     },
@@ -56,6 +72,22 @@
         {
           "file": "sound/01/036_orada_gorusuruz.mp3",
           "label": "Orada görüşürüz."
+        },
+        {
+          "file": "sound/05/055_hosca_kal.mp3",
+          "label": "Hoşça kal."
+        },
+        {
+          "file": "sound/05/056_gule_gule.mp3",
+          "label": "Güle güle."
+        },
+        {
+          "file": "sound/01/178_yolun_acik_olsun.mp3",
+          "label": "Yolun açık olsun."
+        },
+        {
+          "file": "sound/04/165_gorusmek_uzere.mp3",
+          "label": "Görüşmek üzere."
         }
       ]
     },
@@ -80,6 +112,22 @@
         {
           "file": "sound/01/002_tamam_sag_ol.mp3",
           "label": "Tamam, sağ ol."
+        },
+        {
+          "file": "sound/05/042_anladim.mp3",
+          "label": "Anladım."
+        },
+        {
+          "file": "sound/05/018_kesinlikle_efendim.mp3",
+          "label": "Kesinlikle efendim."
+        },
+        {
+          "file": "sound/04/002_ne_desen_haklisin_patron.mp3",
+          "label": "Ne desen haklısın patron."
+        },
+        {
+          "file": "sound/05/054_calisirim_sef.mp3",
+          "label": "Çalışırım şef."
         }
       ]
     },
@@ -104,6 +152,18 @@
         {
           "file": "sound/40/150_biz_senin_muskulunu_hallettik.mp3",
           "label": "Biz senin müşkülünü hallettik."
+        },
+        {
+          "file": "sound/04/192_bu_is_de_bitti.mp3",
+          "label": "Bu iş de bitti."
+        },
+        {
+          "file": "sound/05/075_tamamdir_abi.mp3",
+          "label": "Tamamdır abi."
+        },
+        {
+          "file": "sound/01/167_sarki_bitti.mp3",
+          "label": "Şarkı bitti."
         }
       ]
     },
@@ -128,6 +188,22 @@
         {
           "file": "sound/10/332_beyefendi_bir_yanlis_anlasilma_var.mp3",
           "label": "Beyefendi, bir yanlış anlaşılma var."
+        },
+        {
+          "file": "sound/05/081_yanlis_yapiyorsun.mp3",
+          "label": "Yanlış yapıyorsun."
+        },
+        {
+          "file": "sound/04/003_bos_bulunduk.mp3",
+          "label": "Boş bulduk."
+        },
+        {
+          "file": "sound/04/168_ulan_yalan_soyluyor.mp3",
+          "label": "Yalan söylüyor!"
+        },
+        {
+          "file": "sound/03/105_bu_ciddi_bir_problem.mp3",
+          "label": "Bu ciddi bir problem."
         }
       ]
     },
@@ -152,6 +228,22 @@
         {
           "file": "sound/40/444_bekle_gor_politikasi_uygulayacagiz.mp3",
           "label": "Bekle-gör politikası uygulayacağız."
+        },
+        {
+          "file": "sound/02/120_bekliyorum.mp3",
+          "label": "Bekliyorum."
+        },
+        {
+          "file": "sound/02/190_yakinda_sana_haber_veririz.mp3",
+          "label": "Yakında sana haber veririz."
+        },
+        {
+          "file": "sound/03/067_merak_etme.mp3",
+          "label": "Merak etme."
+        },
+        {
+          "file": "sound/01/023_merak_etmeyin_fazla_uzun_surmez.mp3",
+          "label": "Merak etmeyin, fazla uzun sürmez."
         }
       ]
     },
@@ -176,6 +268,22 @@
         {
           "file": "sound/27/002_size_soruyorum.mp3",
           "label": "Size soruyorum."
+        },
+        {
+          "file": "sound/02/019_kimsiniz.mp3",
+          "label": "Kimsiniz?"
+        },
+        {
+          "file": "sound/02/085_ee_konus.mp3",
+          "label": "Ee, konuş."
+        },
+        {
+          "file": "sound/01/117_ne_dersiniz_beyler.mp3",
+          "label": "Ne dersiniz beyler?"
+        },
+        {
+          "file": "sound/03/062_ozelligi_ne.mp3",
+          "label": "Özelliği ne?"
         }
       ]
     },
@@ -200,6 +308,22 @@
         {
           "file": "sound/40/038_yalniz_sizin_isinizle_sinirli_olmak_uzere.mp3",
           "label": "Yalnız sizin işinizle sınırlı olmak üzere."
+        },
+        {
+          "file": "sound/05/100_ayagina_denk.mp3",
+          "label": "Ayağına denk."
+        },
+        {
+          "file": "sound/04/200_bunu_bir_daha_duymayayim_cakir_yegeni.mp3",
+          "label": "Bunu bir daha duymayayım."
+        },
+        {
+          "file": "sound/04/016_yatacak_yerin_yok_senin.mp3",
+          "label": "Yatacak yerin yok senin."
+        },
+        {
+          "file": "sound/05/096_cunku_sokak_serseleri_gibi_hadise_cikartmazsin.mp3",
+          "label": "Sokak serserleri gibi hadise çıkartmazsın."
         }
       ]
     },
@@ -224,6 +348,22 @@
         {
           "file": "sound/40/456_susayim_bari.mp3",
           "label": "Susayım bari."
+        },
+        {
+          "file": "sound/02/062_defolun_buradan_defolun.mp3",
+          "label": "Defolun buradan!"
+        },
+        {
+          "file": "sound/02/137_bana_bakin_lan_asagilik_mahlukat.mp3",
+          "label": "Bana bakın lan aşağılık mahlukat!"
+        },
+        {
+          "file": "sound/04/036_hadi_oradan_sende.mp3",
+          "label": "Hadi oradan sen de."
+        },
+        {
+          "file": "sound/03/130_persefe_yapma_lan.mp3",
+          "label": "Perse yapma lan."
         }
       ]
     }
