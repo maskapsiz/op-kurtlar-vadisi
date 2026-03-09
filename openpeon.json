@@ -23,10 +23,6 @@
           "label": "Hoş geldin komutanım."
         },
         {
-          "file": "sound/01/010_iyi_gunler_efendim.mp3",
-          "label": "İyi günler efendim."
-        },
-        {
           "file": "sound/24/089_hos_geldiniz.mp3",
           "label": "Hoş geldiniz."
         },
@@ -175,10 +171,6 @@
     "session.end": {
       "sounds": [
         {
-          "file": "sound/01/003_eyvallah.mp3",
-          "label": "Eyvallah."
-        },
-        {
           "file": "sound/40/035_eyvallah_abi.mp3",
           "label": "Eyvallah abi."
         },
@@ -237,10 +229,6 @@
         {
           "file": "sound/27/129_tamam_abi.mp3",
           "label": "Tamam abi."
-        },
-        {
-          "file": "sound/01/002_tamam_sag_ol.mp3",
-          "label": "Tamam, sağ ol."
         },
         {
           "file": "sound/05/042_anladim.mp3",
@@ -451,10 +439,6 @@
     "task.progress": {
       "sounds": [
         {
-          "file": "sound/01/021_tesekkurler_lutfen_bekleyin.mp3",
-          "label": "Teşekkürler, lütfen bekleyin."
-        },
-        {
           "file": "sound/27/050_birkac_gun_bekle.mp3",
           "label": "Birkaç gün bekle."
         },
@@ -481,10 +465,6 @@
         {
           "file": "sound/03/067_merak_etme.mp3",
           "label": "Merak etme."
-        },
-        {
-          "file": "sound/01/023_merak_etmeyin_fazla_uzun_surmez.mp3",
-          "label": "Merak etmeyin, fazla uzun sürmez."
         },
         {
           "file": "sound/03/132_hayatta_hicbir_sey_bu_kadar_cok_beklemedim.mp3",
@@ -514,14 +494,6 @@
     },
     "input.required": {
       "sounds": [
-        {
-          "file": "sound/01/004_ne_var.mp3",
-          "label": "Ne var?"
-        },
-        {
-          "file": "sound/01/005_ne_oldu.mp3",
-          "label": "Ne oldu?"
-        },
         {
           "file": "sound/01/026_niye.mp3",
           "label": "Niye?"
@@ -574,10 +546,6 @@
     },
     "resource.limit": {
       "sounds": [
-        {
-          "file": "sound/01/008_hayir.mp3",
-          "label": "Hayır."
-        },
         {
           "file": "sound/01/174_bu_kadar.mp3",
           "label": "Bu kadar."
