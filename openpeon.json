@@ -355,10 +355,6 @@
           "label": "Bu iş de bitti."
         },
         {
-          "file": "sounds/05/075_tamamdir_abi.mp3",
-          "label": "Tamamdır abi."
-        },
-        {
           "file": "sounds/01/167_sarki_bitti.mp3",
           "label": "Şarkı bitti."
         },
@@ -438,10 +434,6 @@
     },
     "task.progress": {
       "sounds": [
-        {
-          "file": "sounds/27/050_birkac_gun_bekle.mp3",
-          "label": "Birkaç gün bekle."
-        },
         {
           "file": "sounds/24/277_bekle.mp3",
           "label": "Bekle."
@@ -605,10 +597,6 @@
         {
           "file": "sounds/06/169_iste_bu_yuzden_emmi_sen_bile_olsan_iki_kisinin_bildigi_isir_degildir.mp3",
           "label": "İşte bu yüzden emmi, sen bile olsan, iki kişinin bildiği sır değildir."
-        },
-        {
-          "file": "sounds/24/507_sen_bile_olsan_iki_kisinin_bildigi_isir_degildir.mp3",
-          "label": "Sen bile olsan, iki kişinin bildiği sır değildir."
         }
       ]
     },
